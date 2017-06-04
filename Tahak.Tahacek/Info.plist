@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>Tahak.Tahacek</string>
 	<key>CFBundleIdentifier</key>
-	<string>nontrema.tahak.watchkitapp</string>
+	<string>nontrema.Crib.watchkitapp</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleShortVersionString</key>
@@ -22,7 +22,7 @@
 		<string>UIInterfaceOrientationPortraitUpsideDown</string>
 	</array>
 	<key>WKCompanionAppBundleIdentifier</key>
-	<string>nontrema.tahak</string>
+	<string>nontrema.Crib</string>
 	<key>WKWatchKitApp</key>
 	<true/>
 	<key>XSAppIconAssets</key>

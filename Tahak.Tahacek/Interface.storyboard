@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="12118" systemVersion="16E195" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="12120" systemVersion="16E195" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES" initialViewController="AgC-eL-Hgc">
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12086"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="12088"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="12029"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -11,11 +11,15 @@
             <objects>
                 <controller id="AgC-eL-Hgc" customClass="InterfaceController">
                     <items>
-                        <label alignment="left" text="Label khgh" id="0" textAlignment="justified" numberOfLines="60"/>
+                        <label alignment="left" text="Wait for upload." numberOfLines="60" id="0" width="1" height="1" heightAdjustment="15" isAccessibilityElement="NO">
+                            <fontDescription key="font" type="system" pointSize="12"/>
+                            <variation key="device=watch42mm" width="218" minimumScaleFactor="0.5" numberOfLines="6000" heightAdjustment="14" widthAdjustment="1" height="176" accessibilityLabel="derp"/>
+                        </label>
                     </items>
                     <connections>
                         <outlet property="echo" destination="0" id="name-outlet-0"/>
                     </connections>
+                    <variation key="device=watch42mm"/>
                 </controller>
             </objects>
             <point key="canvasLocation" x="0.0" y="0.0"/>

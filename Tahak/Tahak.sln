@@ -1,0 +1,26 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tahak", "Tahak.csproj", "{444F4602-C4F7-422D-8FD7-99C58AC7B574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		ll|iPhoneSimulator = ll|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Release|iPhone.ActiveCfg = Release|iPhone
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Release|iPhone.Build.0 = Release|iPhone
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.Debug|iPhone.Build.0 = Debug|iPhone
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.ll|iPhoneSimulator.ActiveCfg = ll|iPhoneSimulator
+		{444F4602-C4F7-422D-8FD7-99C58AC7B574}.ll|iPhoneSimulator.Build.0 = ll|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

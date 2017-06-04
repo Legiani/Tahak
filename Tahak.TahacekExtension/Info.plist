@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>Tahak.TahacekExtension</string>
 	<key>CFBundleIdentifier</key>
-	<string>nontrema.tahak.watchkitapp.watchkitextension</string>
+	<string>nontrema.Crib.watchkitapp.watchkitextension</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleShortVersionString</key>
@@ -21,7 +21,7 @@
 		<key>NSExtensionAttributes</key>
 		<dict>
 			<key>WKAppBundleIdentifier</key>
-			<string>nontrema.tahak.watchkitapp</string>
+			<string>nontrema.Crib.watchkitapp</string>
 		</dict>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.watchkit</string>

@@ -26,7 +26,6 @@ Global
 		{B4D06D77-832C-4962-A842-F139F0961502}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{B4D06D77-832C-4962-A842-F139F0961502}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{B4D06D77-832C-4962-A842-F139F0961502}.Release|iPhone.ActiveCfg = Release|iPhone
-		{B4D06D77-832C-4962-A842-F139F0961502}.Release|iPhone.Build.0 = Release|iPhone
 		{B4D06D77-832C-4962-A842-F139F0961502}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{B4D06D77-832C-4962-A842-F139F0961502}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{B4D06D77-832C-4962-A842-F139F0961502}.Debug|iPhone.ActiveCfg = Debug|iPhone
@@ -34,7 +33,6 @@ Global
 		{830BD610-C0A1-49A9-9BB0-548BCD9E80EF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
 		{830BD610-C0A1-49A9-9BB0-548BCD9E80EF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
 		{830BD610-C0A1-49A9-9BB0-548BCD9E80EF}.Release|iPhone.ActiveCfg = Release|iPhone
-		{830BD610-C0A1-49A9-9BB0-548BCD9E80EF}.Release|iPhone.Build.0 = Release|iPhone
 		{830BD610-C0A1-49A9-9BB0-548BCD9E80EF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{830BD610-C0A1-49A9-9BB0-548BCD9E80EF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{830BD610-C0A1-49A9-9BB0-548BCD9E80EF}.Debug|iPhone.ActiveCfg = Debug|iPhone

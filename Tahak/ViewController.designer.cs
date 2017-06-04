@@ -15,26 +15,35 @@ namespace Tahak
     {
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        UIKit.UIButton send { get; set; }
+        UIKit.UITextField content { get; set; }
 
         [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
         UIKit.UITextView text { get; set; }
 
-        [Action ("OnButtonPress:")]
+        [Outlet]
         [GeneratedCode ("iOS Designer", "1.0")]
-        partial void OnButtonPress (UIKit.UIButton sender);
+        UIKit.UINavigationBar WatchCon { get; set; }
+
+        [Action ("UIBarButtonItemrUK6T87x_Activated:")]
+        [GeneratedCode ("iOS Designer", "1.0")]
+        partial void UIBarButtonItemrUK6T87x_Activated (UIKit.UIBarButtonItem sender);
 
         void ReleaseDesignerOutlets ()
         {
-            if (send != null) {
-                send.Dispose ();
-                send = null;
+            if (content != null) {
+                content.Dispose ();
+                content = null;
             }
 
             if (text != null) {
                 text.Dispose ();
                 text = null;
+            }
+
+            if (WatchCon != null) {
+                WatchCon.Dispose ();
+                WatchCon = null;
             }
         }
     }

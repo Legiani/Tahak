@@ -48,13 +48,11 @@ namespace Tahak.TahacekExtension
             if (message != null)
             {
                 Console.WriteLine($"Application context update received : {message}");
-                echo.SetText($"\ud83d\udcf1 : {message}");
+                echo.SetText(message);
             }
         }
 
-        private void sendEmoji(string emoji)
-        {
-            WCSessionManager.SharedManager.UpdateApplicationContext(new Dictionary<string, object>() { { "MessageWatch", $"{emoji}" } });
-        }
+        //private void sendEmoji(string emoji)
+        //{WCSessionManager.SharedManager.UpdateApplicationContext(new Dictionary<string, object>() { { "MessageWatch", $"{emoji}" } });}
     }
 }
